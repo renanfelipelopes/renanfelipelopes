@@ -39,22 +39,17 @@ Architectural Standards:
 <h3>Languages and Tools:</h3>
 <p>  
 
-<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" height="40px"></a></code>
-<code><a href="https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-5.0" target="_blank"><img src="https://th.bing.com/th/id/R.7f45fd721eb031819b1f3e0f160692b0?rik=czZMm6lX51OA6w&riu=http%3a%2f%2fgetcodify.com%2fwp-content%2fuploads%2f2016%2f07%2fasp.net-border.png&ehk=kA7WjiYUt6dhQQJxOLuM3O0H7IZqJiucuMBndmC7zYw%3d&risl=&pid=ImgRaw&r=0" height="40px"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-png-transparent.png" height="40px"></a></code>
 <code><a href="https://www.oracle.com/br/java/technologies/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="45px"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35px"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="35px"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
-<code><a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="35px"></a></code>
-<code><a href="https://www.mysql.com/"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"></a></code>
-<code><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35px"></a></code>
-<code><a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="35px"></a></code>
+<code><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30px"></a></code>
 </p>
 <br/>
 
