@@ -3,14 +3,14 @@
 **I'm Renan Lopes**. I'm a Developer Full Stack. Currently my stack is: 
 
 :back: Back-end: **C# .Net, ASP.NET Core, Node.js** <br/>
-:computer: Front-end: **Typescript, React.js, HTML e CSS** <br/>
+:computer: Front-end: **Typescript, React.js, Vue.js, HTML e CSS** <br/>
 :floppy_disk: Database: **SQL Server, MySQL** <br/>
 ☁️ Cloud: **Azure**
 
 And delving into the technologies:
 
 :books: Studying deeper **.Net, ASP.NET Core, Entity Framework Core, SQL Server, Azure** <br/> 
-:iphone: Study web front-end development with **React.js** <br/>
+:iphone: Study web front-end development with **React.js and Vue.js** <br/>
 
 Architectural Standards:
 - REST
@@ -47,6 +47,7 @@ Architectural Standards:
 <code><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35px"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px"></a></code>
+<code><a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30px"></a></code>
