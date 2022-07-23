@@ -2,23 +2,23 @@
 ### Hi there 👋
 **I'm Renan Lopes**. I'm a Developer Full Stack. Currently my stack is: 
 
-:back: Back-end: **C# .Net, ASP.NET Core, Node.js** <br/>
-:computer: Front-end: **Typescript, React.js, Vue.js, HTML e CSS** <br/>
-:floppy_disk: Database: **SQL Server, MySQL** <br/>
+:back: Back-end: **C# .NET** <br/>
+:computer: Front-end: **Typescript, React.js** <br/>
+:floppy_disk: Database: **SQL Server** <br/>
 ☁️ Cloud: **Azure**
 
 And delving into the technologies:
 
 :books: Studying deeper **.Net, ASP.NET Core, Entity Framework Core, SQL Server, Azure** <br/> 
-:iphone: Study web front-end development with **React.js and Vue.js** <br/>
+:iphone: Study web front-end development with **React.js** <br/>
 
 Architectural Standards:
 - REST
 - Microservices
 - Clean Architecture
 - SOLID
-- DDD (It is not an architectural standard, but it is valid)
-- TDD (It is not an architectural standard, but it is valid)
+- Domain-Driven Design 
+- Test Driven Development
 
 <h3 align="center">Connect with me:</h3>
 
@@ -47,7 +47,6 @@ Architectural Standards:
 <code><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35px"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px"></a></code>
-<code><a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30px"></a></code>
@@ -56,7 +55,7 @@ Architectural Standards:
 
 :mortar_board: I am a technologist in Systems Analysis and Development.
 
-I also developed projects with Java, Ruby on Rails, Python and others. I like design architecture, writing clean code and applying good practices.
+I also developed projects with Java, Node.js, Python and others. I like design architecture, writing clean code and applying good practices.
 
 The only certainty I have is that learning is an endless road and I want to continue on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. :grin:
 
