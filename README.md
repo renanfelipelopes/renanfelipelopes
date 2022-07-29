@@ -2,7 +2,7 @@
 ### Hi there 👋
 **I'm Renan Lopes**. I'm a Developer Full Stack. Currently my stack is: 
 
-:back: Back-end: **C# .NET** <br/>
+:back: Back-end: **C# .NET, Java** <br/>
 :computer: Front-end: **Typescript, React.js** <br/>
 :floppy_disk: Database: **SQL Server** <br/>
 ☁️ Cloud: **Azure**
@@ -41,11 +41,11 @@ Architectural Standards:
 
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="40px"></a></code>
-<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" height="40px"></a></code>
 <code><a href="https://www.oracle.com/br/java/technologies/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="45px"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35px"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" height="40px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30px"></a></code>
