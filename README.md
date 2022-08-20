@@ -3,8 +3,8 @@
 
 :back: Back-end: **C# .NET, Java** <br/>
 :computer: Front-end: **Typescript, React.js** <br/>
-:floppy_disk: Database: **SQL Server** <br/>
-☁️ Cloud: **Azure**
+:floppy_disk: Database: **SQL Server, MySQL** <br/>
+☁️ Cloud: **AWS, Azure**
 
 And delving into the technologies:
 
