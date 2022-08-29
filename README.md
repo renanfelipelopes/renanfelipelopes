@@ -4,11 +4,11 @@
 :back: Back-end: **C# .NET, Java** <br/>
 :computer: Front-end: **Typescript, React.js** <br/>
 :floppy_disk: Database: **SQL Server, MySQL** <br/>
-☁️ Cloud: **AWS, Azure**
+☁️ Cloud: **AWS**
 
 And delving into the technologies:
 
-:books: Studying deeper **.Net, ASP.NET Core, Entity Framework Core, SQL Server, Azure** <br/> 
+:books: Studying deeper **.Net, ASP.NET Core, Entity Framework Core, SQL Server, AWS** <br/> 
 :iphone: Study web front-end development with **React.js** <br/>
 
 Architectural Standards:
@@ -44,6 +44,7 @@ Architectural Standards:
 <code><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35px"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://pbs.twimg.com/profile_images/1377341693964382209/XLGAtguT_400x400.jpg" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" height="40px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
