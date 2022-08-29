@@ -46,6 +46,8 @@ Architectural Standards:
 <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://pbs.twimg.com/profile_images/1377341693964382209/XLGAtguT_400x400.jpg" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" height="40px"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://blog.min.io/content/images/size/w600/2021/09/1_kqpVTzo8b0e2oKdOjWQxZA.png" height="40px"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" height="40px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30px"></a></code>
