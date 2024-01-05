@@ -1,14 +1,14 @@
 ### Hi there 👋
 **I'm Renan Lopes**. I'm a Developer Full Stack. Currently my stack is: 
 
-:back: Back-end: **C# .NET, Java** <br/>
+:back: Back-end: **C# .NET, Java and Python** <br/>
 :computer: Front-end: **Typescript, React.js** <br/>
-:floppy_disk: Database: **SQL Server, MySQL** <br/>
+:floppy_disk: Database: **SQL Server, MySQL, OpenSearch Aws** <br/>
 ☁️ Cloud: **AWS**
 
 And delving into the technologies:
 
-:books: Studying deeper **.Net, ASP.NET Core, Entity Framework Core, SQL Server, AWS** <br/> 
+:books: Studying deeper **Java, Spring Boot, AWS** <br/> 
 :iphone: Study web front-end development with **React.js** <br/>
 
 Architectural Standards:
