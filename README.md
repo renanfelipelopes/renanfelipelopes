@@ -1,15 +1,16 @@
 ### Hi there 👋
 **I'm Renan Lopes**. I'm a Developer Full Stack. Currently my stack is: 
 
-:back: Back-end: **C# .NET, Java and Python** <br/>
-:computer: Front-end: **Typescript, React.js** <br/>
+:back: Back-end: **C#, Java and Python** <br/>
+🚀 Frameworks: **.Net Core, Asp.Net Core, Spring Boot, Django** <br/>
+:computer: Front-end: **Typescript, Javascript** <br/>
 :floppy_disk: Database: **SQL Server, MySQL, OpenSearch Aws** <br/>
 ☁️ Cloud: **AWS**
 
 And delving into the technologies:
 
-:books: Studying deeper **Java, Spring Boot, AWS** <br/> 
-:iphone: Study web front-end development with **React.js** <br/>
+:books: Studying deeper **Java Spring Boot, Golang, AWS** <br/> 
+:iphone: Study cloud development with **AWS** <br/>
 
 Architectural Standards:
 - REST
@@ -37,11 +38,13 @@ Architectural Standards:
 
 <h3>Languages and Tools:</h3>
 <p>  
-
-<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="40px"></a></code>
+  
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="40px"></a></code>
 <code><a href="https://www.oracle.com/br/java/technologies/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="45px"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35px"></a></code>
+<code><a href="https://docs.python.org/3/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="35px"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="40px"></a></code>
+<code><a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" height="40px"></a></code>
+
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://pbs.twimg.com/profile_images/1377341693964382209/XLGAtguT_400x400.jpg" height="40px"></a></code>
