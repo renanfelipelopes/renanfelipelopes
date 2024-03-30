@@ -65,9 +65,9 @@ I also developed projects with Java, Node.js, Python and others. I like design a
 The only certainty I have is that learning is an endless road and I want to continue on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. :grin:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfelipelopes&hide=html&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfelipelopes&hide=html&layout=compact&langs_count=7&theme=dracula"/>
   <a href="https://github.com/renanfelipelopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanfelipelopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renanfelipelopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!-- ![Snake animation](https://github.com/renanfelipelopes/renanfelipelopes/blob/output/github-contribution-grid-snake.svg) -->
