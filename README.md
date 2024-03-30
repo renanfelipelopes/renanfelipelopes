@@ -1,7 +1,7 @@
 ### Hi there 👋
 **I'm Renan Lopes**. I'm a Developer Full Stack. Currently my stack is: 
 
-:back: Back-end: **C#, Java and Python** <br/>
+:back: Back-end: **C#, Java, Python and Go** <br/>
 🚀 Frameworks: **.Net Core, Asp.Net Core, Spring Boot, Django** <br/>
 :computer: Front-end: **Typescript, Javascript** <br/>
 :floppy_disk: Database: **SQL Server, MySQL, OpenSearch Aws** <br/>
@@ -42,6 +42,7 @@ Architectural Standards:
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="40px"></a></code>
 <code><a href="https://www.oracle.com/br/java/technologies/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="45px"></a></code>
 <code><a href="https://docs.python.org/3/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="35px"></a></code>
+<code><a href="https://go.dev/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40px"></a></code>
 <code><a href="https://docs.microsoft.com/pt-br/users/renanfelipelopes/challenges" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="40px"></a></code>
 <code><a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" height="40px"></a></code>
 
